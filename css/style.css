@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: "Audiowide", sans-serif;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pcep-workflow {
+    display: block;
+    width: 80%;
+}
+
+.pcep-insignia {
+    display: block;
+    width: 15%;
+}
